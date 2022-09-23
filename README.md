@@ -10,6 +10,7 @@
 [![changelog](https://img.shields.io/badge/change-log-yellow)](https://github.com/mh4x0f/wifipumpkin3/blob/dev/CHANGELOG.md)
 [![changelog](https://img.shields.io/badge/version-1.0.8-blue)](https://github.com/mh4x0f/wifipumpkin3/)
 [![code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![patreon](https://img.shields.io/badge/donate-patreon-orange)](https://www.patreon.com/mh4x0f?fan_landing=true)
 
 </div>
 
@@ -35,12 +36,10 @@
 
 ### Donation
 
-[![patreon](https://img.shields.io/badge/donate-patreon-orange)](https://www.patreon.com/mh4x0f?fan_landing=true)
 [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PUPJEGHLJPFQL)
 
-##### Via BTC:
 ~~~
-1HBXz6XX3LcHqUnaca5HRqq6rPUmA3pf6f
+Via BTC: 1HBXz6XX3LcHqUnaca5HRqq6rPUmA3pf6f
 ~~~
 
 ## Supported platforms
