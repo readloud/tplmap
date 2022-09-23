@@ -32,8 +32,7 @@
 - LLMNR, NBT-NS and MDNS poisoner ([Responder3](https://github.com/skelsec/Responder3)) 
 - RestFulAPI 
 - and **more**!
-- [Video Tutorial](https://youtu.be/DG6t6D_5sY0)
-- 
+
 ### Donation
 
 ##### Patreon:
@@ -45,8 +44,9 @@
 [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PUPJEGHLJPFQL)
 
 ##### Via BTC:
-
+~~~
 1HBXz6XX3LcHqUnaca5HRqq6rPUmA3pf6f
+~~~
 
 ## Supported platforms
 
@@ -65,10 +65,11 @@ Learn more about using [wp3 on the official site!](https://wifipumpkin3.github.i
 
 - [Getting Started](https://wifipumpkin3.github.io/docs/getting-started)
 - [Installation](https://wifipumpkin3.github.io/docs/getting-started#installation)
+- [Video Tutorial](https://youtu.be/DG6t6D_5sY0)
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help out.
+See [CONTRIBUTING.md](/.github/#CONTRIBUTING.md) for how to help out.
 
 ## community
 on discord: https://discord.gg/jywYskR
